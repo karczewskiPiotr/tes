@@ -1,0 +1,19 @@
+{
+  "id": "e961d107-5c1c-4d02-b947-9232affd4c3a",
+  "collaborators": [
+    {
+      "id": "8de8e010-fc9c-4748-b734-875f39cd66ad",
+      "role": "developer",
+      "githubUsername": "karczewskiPiotr"
+    }
+  ],
+  "description": "",
+  "name": "tes",
+  "packageManager": "npm",
+  "useSass": false,
+  "useTypescript": true,
+  "multilingual": true,
+  "creationDate": 1663768860752,
+  "tags": [],
+  "snippets": []
+}
