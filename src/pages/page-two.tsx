@@ -15,6 +15,7 @@ const SecondPage = () => {
       <p>
         {t("page-two:find-me")} <code>src/pages/page-two.tsx</code>
       </p>
+      All the changes
       <LocalizedLink to="/" language={locale} style={{ color: "#00b140" }}>
         {t("common:go-back", { page: t("page-two:home-page") })}
       </LocalizedLink>
