@@ -12,3 +12,5 @@ export const getLocaleName = (locale: string): string => {
 
   return `${lang.name} (${lang.localName})`
 }
+
+// commetn
