@@ -12,6 +12,8 @@ const SecondPage = () => {
     <Layout>
       <Seo title="Page two" />
       <h1>{t("page-two:this-is-second-page")}</h1>
+      Changes to pag 2
+      More changes to page 2
       <p>
         {t("page-two:find-me")} <code>src/pages/page-two.tsx</code>
       </p>
