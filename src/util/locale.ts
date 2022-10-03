@@ -21,3 +21,4 @@ export const getLocaleName = (locale: string): string => {
 // mhm
 // mhm 2
 // remote
+// remote 2
