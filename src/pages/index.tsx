@@ -71,6 +71,7 @@ const IndexPage: React.FC<PageProps<Data>> = ({
       <h1>{t("home:congratulations")}</h1>
       <p>{t("home:successfull-creation")}</p>
       <p>{t("home:create-sth-great")}</p>
+      Change to page
       <StaticImage
         src="../images/gatsby-love.png"
         width={450}
