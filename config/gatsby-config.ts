@@ -2,9 +2,9 @@ import { GatsbyConfig } from "gatsby"
 
 export default {
   siteMetadata: {
-    title: `Publication-as-a-Website i18n Starter`,
-    description: `Kick off your next PaaW project with this basic starter.`,
-    author: `@vnLab1`,
+    title: `tes`,
+    description: ``,
+    author: `karczewskiPiotr`,
     siteUrl: `http://vnlab.filmschool.lodz.pl/`,
   },
   plugins: [
@@ -46,7 +46,7 @@ export default {
       options: {
         name: `Default vnLab Publication-as-a-Website starter`,
         short_name: `vnLab starter`,
-        description: `A simple starter for PaaW projects.`,
+        description: ``,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#000000`,
