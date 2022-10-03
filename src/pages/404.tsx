@@ -9,6 +9,7 @@ const NotFoundPage = () => {
   return (
     <Layout>
       <Seo title="404: Not found" />
+      hello
       <h1>{t("not-found")}</h1>
       <p>{t("route-invalid")}</p>
     </Layout>
