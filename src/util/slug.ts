@@ -5,3 +5,5 @@ export const localizeSlug = (slug: string): string[] =>
 
 export const delocalizeSlug = (slug: string): string =>
   slug.replace(/\.(pl|en)/, "")
+
+// slug
